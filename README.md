@@ -31,16 +31,16 @@ Identify crop type from an image.
 Detect crop health and diseases using image analysis.
 
 # AI Models Used
-Task                                	Suggested Algorithm
+Task                         and        	Suggested Algorithm
 
-Milk yield prediction	               Random Forest Regression
+Milk yield prediction	       -        Random Forest Regression
 
-Egg count prediction	               Time-series LSTM
+Egg count prediction	       -       Time-series LSTM
 
-Animal Breed Detection	             CNN / MobileNetV3
+Animal Breed Detection	     -         CNN / MobileNetV3
 
-Crop Type Detection                  CNN / EfficientNet
+Crop Type Detection          -       CNN / EfficientNet
 
-Audio-based Health Detection	       Audio Spectrogram + CNN
+Audio-based Health Detection -       Audio Spectrogram + CNN
 
-Crop Disease Detection             	 CNN (PlantVillage dataset baseline)
+Crop Disease Detection       -     	 CNN (PlantVillage dataset baseline)
